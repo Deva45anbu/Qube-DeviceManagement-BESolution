@@ -1,6 +1,6 @@
-## Description
+# Device Management Web Application
 
-The backend application, part of the [Your Project Name] system, serves as a robust server-side component designed to handle various operations related to appliance management. Developed using Node.js and Express.js, it provides RESTful API endpoints for seamless communication with the frontend or other clients.
+The backend application, part of the [Device Management Web Application] system, serves as a robust server-side component designed to handle various operations related to appliance management. Developed using Node.js and Express.js, it provides RESTful API endpoints for seamless communication with the frontend or other clients.
 
 
 ### Cloning and Running the Application in local
