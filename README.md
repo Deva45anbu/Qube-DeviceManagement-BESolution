@@ -35,8 +35,6 @@ Retrieve detailed information about a specific appliance based on applianceId.
   
 - **Express.js:** A fast and minimalistic web application framework for Node.js, streamlining the development of robust APIs.
 
-- **Axios:** Utilized for making HTTP requests, enabling seamless communication with other services.
-
 ### Deployment
 
 To deploy the backend, clone the repository, install dependencies, configure the database, and start the server. The application will be accessible at [http://localhost:8080](http://localhost:8080) by default. For production deployment, consider hosting on a server or cloud platform.
